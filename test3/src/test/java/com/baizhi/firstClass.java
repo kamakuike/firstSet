@@ -10,4 +10,7 @@ public class firstClass {
     public void b(){
         System.out.println("dvc 分支");
     }
+    public void d(){
+        System.out.println("冲突测试");
+    }
 }
