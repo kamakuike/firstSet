@@ -13,4 +13,7 @@ public class firstClass {
     public void d(){
         System.out.println("冲突测试");
     }
+    public void c(){
+        System.out.println("测试冲突");
+    }
 }
