@@ -7,4 +7,7 @@ public class firstClass {
     public void a(){
         System.out.println("my first test ");
     }
+    public void b(){
+        System.out.println("dvc 分支");
+    }
 }
